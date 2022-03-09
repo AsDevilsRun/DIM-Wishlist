@@ -1,3 +1,5 @@
+dimwishlist:item=4199933901&perks=3436462433,2396489472
+
 // Chroma Rush (PvP)
 //notes:PvP-720s aren't meta for PvP, but oh well. Barrel is preference, but I like handling and stability on autos. MW is really anything except reload, unless you're using Kill Clip.
 dimwishlist:item=1119734784&perks=3142289711,1570042021,1890422124
